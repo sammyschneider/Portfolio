@@ -1,0 +1,164 @@
+body {
+  background-color: #5c677d;
+font-family: 'Play', sans-serif;
+}
+.name {
+  color: #80ffdb;
+  font-family: 'Turret Road', cursive;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+.nav-name {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+.nav-bar-color{
+  background-color: #3d405b;
+}
+.main {
+  background-color: #5c677d;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 7.25%;
+}
+
+.main-content {
+  text-align: center;
+  width: 80%;
+  margin: auto;
+  color: white;
+  margin-top: 2%;
+  padding: 3%;
+}
+.profile-img {
+  width: 20%;
+  height: 20%;
+  border: 3px solid #80ffdb;
+  border-radius: 25%;
+  margin-top: 3%;
+}
+.about-me {
+  width: 80%;
+  margin: auto;
+  padding: 3%;
+  color: white;
+}
+.about {
+  background-color: #3d405b;
+}
+.projects {
+  color: white;
+  background-color: #5c677d;
+}
+.projects-div {
+  margin: auto;
+  width: 80%;
+  padding: 3%;
+}
+.icon-black {
+  color: black;
+}
+.card-header-color {
+  background-color: #3d405b;
+}
+.card-header-text {
+  color: white;
+}
+.project-card {
+  margin-bottom: 3%;
+}
+.carousel-size {
+  margin: auto;
+  width: 80%;
+  padding: 2%;
+}
+.a-tag {
+  text-decoration: none;
+  color: white;
+}
+.card-content-color {
+  color: white;
+}
+.a-tag:hover {
+  color: #80ffdb;
+  text-decoration: none;
+}
+.view {
+  text-align: center;
+}
+.contact-me {
+  width: 80%;
+  margin: auto;
+  padding: 3%;
+  color: white;
+}
+.contact {
+  background-color: #5c677d;
+}
+.contact-me-underline {
+  text-decoration: underline;
+}
+.a-tag-email:hover {
+  color: #80ffdb;
+  text-decoration: none;
+}
+.a-tag-email {
+  color: white;
+}
+.resume {
+  background-color: #5c677d;
+}
+.my-resume {
+  width: 80%;
+  margin: auto;
+  padding: 3%;
+  color: white;
+  margin-bottom: 2%;
+}
+.my-skills {
+  width: 80%;
+  margin: auto;
+  padding: 3%;
+  color: white;
+}
+.skills {
+  background-color: #3d405b;
+}
+.projects-padding {
+  margin-bottom: 3%;
+}
+.nav-footer {
+  background-color: #3d405b;
+  text-align: center;
+}
+.icon-footer {
+  color: white;
+}
+strong {
+  color: #80ffdb;
+}
+.namez {
+  text-align: right;
+}
+.contact-me-align {
+  margin: auto;
+  margin-top: 3%;
+  width: 80%;
+}
+.contact-me {
+  display: flex;
+  justify-content: space-around;
+}
+.skills-icons{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.fab:hover {
+  color: #80ffdb;
+}
+.icon-size {
+  width: 7%;
+  height: auto;
+}
+.github:hover{
+    color: #80ffdb;
+}
