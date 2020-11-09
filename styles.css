@@ -160,5 +160,5 @@ strong {
   height: auto;
 }
 .github:hover{
-    color: #80ffdb;
+    color: #80ffdb !important;
 }
